@@ -11,4 +11,4 @@ This web aplication will let you convert your atom 1.0 feed into an RSS2 feed th
 
 4: use the atom2rss.xsl file from http://atom.geekhood.net/
 
-5: online demo ==> http://atom2rss.appspot.com/
+5: online demo running on Google App Engine  ==>  http://atom2rss.appspot.com/
